@@ -1,0 +1,10 @@
+Copyright (c) 2026 Zbysio. Wszelkie prawa zastrzeżone.
+
+Zgodnie z Warunkami Korzystania z Usługi GitHub (GitHub Terms of Service), 
+użytkownicy mają prawo do wyświetlania oraz tworzenia forków tego repozytorium 
+wyłącznie w obrębie platformy GitHub.
+
+Kopiowanie, modyfikowanie, rozpowszechnianie, publikowanie na zewnętrznych 
+stronach internetowych oraz wykorzystywanie kodu źródłowego lub jego fragmentów 
+w celach komercyjnych i niekomercyjnych bez wyraźnej, pisemnej zgody 
+autora (Zbysia) jest surowo zabronione.
